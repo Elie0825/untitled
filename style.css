@@ -80,7 +80,7 @@ header nav ul li a:hover {
 
 /* Hero Section (Startsidans bakgrund) */
 .hero {
-  background: url('/img/cod3.jpeg') no-repeat center/cover;
+  background: url('/cod3.jpeg') no-repeat center/cover;
   height: 100vh; /* Full höjd för viewport */
   display: flex;
   flex-direction: column;
